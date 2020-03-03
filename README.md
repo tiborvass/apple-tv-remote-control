@@ -1,6 +1,6 @@
 # Apple TV Remote Control using Arduino
 
-An Arduino-based smart remote control for your Apple TV (3. generation). Navigate to Netflix or start a random episode of your favorite TV series with just one click.
+An Arduino-based smart remote control for your Apple TV (3. generation).
 
 ## Requirements
 - Arduino UNO
